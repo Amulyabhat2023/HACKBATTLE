@@ -3,10 +3,8 @@ import streamlit as st
 st.set_page_config(page_title="VITFreshie!", page_icon=":tada:", layout= "wide")
 
 with st.container():
-    st.subheader("Hello freshers :wave:")
-    st.subheader("Welcome to VIT!")
-    st.title("A peep into Vit")
-    st.write("The VITfreshie app helps freshers feel at home.")
+    st.subheader("Hello freshers :wave:, Welcome to VIT!")
+    st.write("The VITVfreshie web helps freshers feel at home. This web provides the kick start required for the initial start at VIT Vellore.")
 
 
 with st.container():
