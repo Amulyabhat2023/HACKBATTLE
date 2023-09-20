@@ -43,7 +43,7 @@ if option== 'Ask your senior':
         cont = """<form action="https://formsubmit.co/vitvfreshie@gmail.com" method="POST">
          <input type="hidden" name="_captcha" value="false">  
          <input type="text" name="name" placeholder="NAME" required>
-         <input type="text" name="Register Number" placeholder="Register Number" required>
+         <input type="text" name="Email id" placeholder="Email id" required>
          <input type="text" name=""Query" placeholder="Enter your query" required>
          <button type="submit">Submit</button>
     </form>
